@@ -6,9 +6,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/gdakate/yongeun-leetcode-log/tree/master/0782-jewels-and-stones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/gdakate/yongeun-leetcode-log/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/gdakate/yongeun-leetcode-log/tree/master/0782-jewels-and-stones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/gdakate/yongeun-leetcode-log/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
