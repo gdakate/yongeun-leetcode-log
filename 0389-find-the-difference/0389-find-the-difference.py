@@ -1,8 +1,8 @@
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
-        s_sum = sum(ord(i) for i in s)
-        t_sum = sum(ord(i) for i in t)
+        s_count = collections.Counter(s)
+        t_count = collections.Counter(t)
 
-        return chr(t_sum-s_sum)
-        
-            
+        dif = t_count-s_count
+
+        return list(dif.keys())[0]
